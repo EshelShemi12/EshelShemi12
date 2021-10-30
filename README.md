@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @EshelShemi12
+- 👋 Hi, I’m Eshel
+- I'm a 15 yo boy from Israel
 - 👀 I’m interested in help for an world ecconomy app
 - 🌱 I’m currently learning C++ and Java to create an app
 - 💞️ I’m look for coding help in Java
